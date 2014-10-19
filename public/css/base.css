@@ -1,0 +1,12 @@
+/*header style*/
+body{
+background-color:#aaaaaa;
+font-weight: 1.5em;
+text-align:center;
+margin:auto;
+font-family: Helvetica, Arial, Sans-Serif;
+}
+
+h1{
+	color:red;
+}
